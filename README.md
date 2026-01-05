@@ -35,27 +35,7 @@ The application is built with scalability and performance in mind using Vite’s
 
 ---
 
-## Project Structure
 
-vite-project/
-│
-├── public/
-│ └── images/ # Static assets and background images
-│
-├── src/
-│ ├── components/ # Reusable UI components
-│ │ ├── Hero.jsx
-│ │ ├── Hero.css
-│ │ ├── Navbar.jsx
-│ │ └── Navbar.css
-│ │
-│ ├── App.jsx # Root component
-│ ├── main.jsx # Application entry point
-│ └── index.css # Global styles
-│
-├── index.html
-├── package.json
-└── vite.config.js
 
 
 
